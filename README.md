@@ -1,6 +1,6 @@
 # Analyse du réseaux des chaînes YouTube culturelles et scientifiques francophones
 
-Étude réalisée dans le cadre du cours MSH5107D encadré par Lionel Villard (enseignant-chercheur à ESIEE Paris) et Bilel Benbouzid (enseignant-chercheur à UPEM). Ce cours est à l'interface des sciences sociales et des méthodes informatiques. L'objectif est d'apprendre à analyser un réseau et d'en comprendre les métriques sous-jacentes (betweenness, degree etc.).
+Étude réalisée dans le cadre du cours MSH5107D encadré par Lionel Villard (enseignant-chercheur à ESIEE Paris) et Bilel Benbouzid (enseignant-chercheur à UPEM). Ce cours est à l'interface des sciences sociales et des méthodes informatiques. L'objectif est d'apprendre à analyser un réseau et d'en comprendre les métriques sous-jacentes (betweenness, degree etc.).
 
 Auteurs :
 
