@@ -16,6 +16,12 @@ Aujourd'hui, l’essor du numérique offre un nouvel accès à la culture. En
 
 Dans cette étude, nous nous sommes intéressés à la vulgarisation scientifique sur Youtube, qui est à la fois un média et un réseau social. L'objectif est d'étudier, via l'analyse de réseaux, les interactions entre les différentes communautés scientifiques de vulgarisateurs, et de discerner des disciplines émergentes. Nous avons choisis comme document de référence un rapport du ministère de la culture, qui recense 350 chaînes scientifiques et culturelles francophones classées par catégorie.
 
+## Poster
+
+![Poster du projet](MSH5107D_vulgarisation_scientifique.jpg)
+
+Visualisez le poster en qualité optimale : [version pdf](MSH5107D_vulgarisation_scientifique.pdf)
+
 ---
 
 ## Références:
